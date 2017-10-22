@@ -23,7 +23,7 @@ export default class Home extends Component {
         <div className="body">
           <div className="body-point">
             Hello! I am a senior full stack engineer at {' '}
-            <a className="link" href='www.pared.com'>Pared</a>
+            <a className="link" href='https://www.pared.com'>Pared</a>
           </div>
           <div className="body-point">
             {'Frontend: I have 2 years of experience building with React and Redux'}
