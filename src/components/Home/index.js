@@ -26,13 +26,13 @@ export default class Home extends Component {
             <a className="link" href='https://www.pared.com'>Pared</a>
           </div>
           <div className="body-point">
+            {'Backend: I have over 2 years of experience building Python services and using Node.js to automate systems and services'}
+          </div>
+          <div className="body-point">
             {'Frontend: I have 2 years of experience building with React and Redux'}
           </div>
           <div className="body-point">
-            {'Backend: I have over 2 years of experience building Python services and using Node.js automating systems and building out endpoints'}
-          </div>
-          <div className="body-point">
-            {'I enjoy climbing multiple times a week, and biking through the city for fun and to be the commute traffic'}
+            {'I enjoy climbing multiple times a week, and biking through the city to beat the commute traffic'}
           </div>
         </div>
         <div className="page-divider"></div>
