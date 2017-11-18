@@ -35169,9 +35169,14 @@ var Home = function (_Component) {
             ' ',
             _react2.default.createElement(
               'a',
-              { className: 'link', href: 'www.pared.com' },
+              { className: 'link', href: 'https://www.pared.com' },
               'Pared'
             )
+          ),
+          _react2.default.createElement(
+            'div',
+            { className: 'body-point' },
+            'Backend: I have over 2 years of experience building Python services and using Node.js to automate systems and services'
           ),
           _react2.default.createElement(
             'div',
@@ -35181,12 +35186,7 @@ var Home = function (_Component) {
           _react2.default.createElement(
             'div',
             { className: 'body-point' },
-            'Backend: I have over 2 years of experience building Python services and using Node.js automating systems and building out endpoints'
-          ),
-          _react2.default.createElement(
-            'div',
-            { className: 'body-point' },
-            'I enjoy climbing multiple times a week, and biking through the city for fun and to be the commute traffic'
+            'I enjoy climbing multiple times a week, and biking through the city to beat the commute traffic'
           )
         ),
         _react2.default.createElement('div', { className: 'page-divider' }),

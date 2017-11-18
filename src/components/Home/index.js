@@ -32,7 +32,7 @@ export default class Home extends Component {
             {'Frontend: I have 2 years of experience building with React and Redux'}
           </div>
           <div className="body-point">
-            {'I enjoy climbing multiple times a week, and biking through the city to beat the commute traffic'}
+            {'I enjoy rock climbing, baking sour dough bread, and biking through the city to beat the commute traffic'}
           </div>
         </div>
         <div className="page-divider"></div>
